@@ -12,4 +12,5 @@ int main() {
         total = money + total;
     }         
     cout << "總合為 :" << total;
+    cout << "\n";
 }
