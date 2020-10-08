@@ -7,9 +7,9 @@ int main()
     cout << "高度：";
     cin >> high;
 
-    for(int i = 0 ; i < high+1 ; i++ )
+    for(int i = 0; i < high+1 ; i++ )
     {
-        for(int k = 0 ;k < high - i ;k++)
+        for(int k = 0; k < high-i ; k++)
         {
             cout << " ";
         }
